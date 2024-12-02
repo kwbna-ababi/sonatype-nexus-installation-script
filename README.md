@@ -42,7 +42,7 @@ To use this script, simply copy and paste it into a new file on your Ubuntu serv
 
 Alternatively, you can clone the repository containing the script onto your server using the following command: 
 
-    git clone https://github.com/chriscloudaz/sonatype-nexus-installation-script/
+    git clone https://github.com/kwbna-ababi/sonatype-nexus-installation-script/
 
 Navigate to the cloned repository directory and execute the script:
 
@@ -54,6 +54,6 @@ This method allows you to keep the script up-to-date by pulling changes from the
 ## Important Note
 Ensure that you have appropriate permissions and access rights before running this script, as it performs system-level operations that may affect the stability and security of your server.
 
-For any questions or issues related to this script, please open an issue on the GitHub repository or reach out to me via email on chriscloudaz@gmail.com.
+For any questions or issues related to this script, please open an issue on the GitHub repository or reach out to me via email on dkwabena44@gmail.com.
 
 Happy artifact management with Nexus!
