@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-# Author: Chris Parbey
+# Author: Bright Ababio
 
 logfile="/var/log/nexus-install.log"
 current_datetime=$(date +"%Y-%m-%d %H:%M:%S")
